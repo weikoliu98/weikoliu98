@@ -24,16 +24,6 @@ My expertise lies in bridging the gap between technical SMEs and senior leadersh
 * 🛡️ **Risk & Governance (TRA)** — Performing threat risk assessments and compliance mapping for 100+ critical enterprise applications.
 * ⚙️ **Process Optimization** — Standardizing delivery workflows to reduce administrative overhead by 20% and accelerate technical discovery by 30%.
 * 💰 **Capital Portfolio Oversight** — Managing financial accountability and project controls for $15M+ infrastructure investments.
-
-### 🚀 Selected Projects
-
-**Decision Science & Optimization**
-* 🔢 **Resource Allocation (LP/MIP)** — Applied linear programming to solve constrained optimization problems for supply chain and business rule modeling.
-* 🎲 **Risk Modeling (Monte Carlo)** — Developed stochastic simulations to model uncertainty and financial risk in capital investment valuations.
-* 🤖 **Adaptive Systems (Reinforcement Learning)** — Explored Multi-Armed Bandit frameworks for real-time decision-making in dynamic environments.
-* 📊 **Business & Operational Strategy** — Translating complex analytics into managerial action through structured problem framing and ROI projection.
-
-**Digital Transformation & Advisory**
 * ⚡ **AMI Infrastructure Governance** — Orchestrated project controls and financial tracking for major Advanced Metering Infrastructure modernization.
 * 🛡️ **Cybersecurity Compliance (TRA)** — Conducted comprehensive Threat Risk Assessments for high-stakes client applications to ensure industry-standard security.
 * 📉 **RFP Visual Analytics** — Conceptualized Power BI dashboard suites for multi-million dollar proposals to project operational improvements.
