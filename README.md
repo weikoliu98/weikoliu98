@@ -14,16 +14,33 @@
 
 ### 💡 About Me
 
-I am a **Business Analyst Consultant** and **MBA Candidate** focused on the intersection of technical delivery and executive strategy. With over 3 years of experience in **Digital Advisory**, I specialize in transforming complex operational data into actionable insights that drive multi-million dollar investments.
+I am a **Business Analyst** and **MBA Candidate** focused on the intersection of technical delivery and executive strategy. With over 3 years of experience in **Digital Advisory**, I specialize in transforming complex operational data into actionable insights that drive multi-million dollar investments.
 
 My expertise lies in bridging the gap between technical SMEs and senior leadership, ensuring that large-scale digital transformations—particularly in the **Utilities and Energy sectors**—are delivered with financial rigor and operational clarity.
 
-### 🛠️ Technical & Strategic Toolkit
+### 🔢 My Work Spans
 
-- **Analytics & Visualization:** Power BI, Python, Data Modeling, and Executive Dashboarding.
-- **Project Governance:** Agile/Scrum (PSM I, SAFe® 6), Stakeholder Management, and Requirement Architecture.
-- **Risk & Compliance:** Threat Risk Assessments (TRA), Cybersecurity Compliance, and Process Optimization.
-- **Business Development:** GTM Collateral, RFP Visualization, and ROI Projection.
+📈 **Business Intelligence & Synthesis** — transforming complex operational data into executive-ready Power BI architectures.
+🛡️ **Risk & Governance (TRA)** — performing threat risk assessments and compliance mapping for critical enterprise applications.
+⚙️ **Process Optimization** — standardizing delivery workflows to reduce administrative overhead and accelerate technical discovery.
+💰 **Capital Portfolio Oversight** — managing financial accountability and project controls for $15M+ infrastructure investments.
+
+🚀 Selected Projects
+
+**Decision Science & Optimization**
+* 🔢 **Resource Allocation (LP/MIP)** — Applied linear programming to solve constrained optimization problems for supply chain and business rule modeling.
+* 🎲 **Risk Modeling (Monte Carlo)** — Developed stochastic simulations to model uncertainty and financial risk in capital investment valuations.
+* 🤖 **Adaptive Systems (Reinforcement Learning)** — Explored Multi-Armed Bandit frameworks for real-time decision-making in dynamic environments.
+### 🛠️ Technical Stack
+
+| Category | Tools & Competencies |
+| :--- | :--- |
+| **Languages** | Python, SQL, VBA |
+| **Optimization & OR** | Agile/SAFe® Methodology, Requirements Architecture, Workflow Standardization |
+| **Simulation** | Financial Modeling, ROI Projection, Cost-Benefit Analysis |
+| **Risk & Compliance** | Threat Risk Assessment (TRA), Cybersecurity Compliance, Governance Reporting |
+| **Visualization** | Power BI, Executive Dashboards, RFP Visual Analytics |
+| **Productivity** | Microsoft Azure, SharePoint, Jira/Confluence, MS Project |
 
 ### 🚀 Career Highlights
 
