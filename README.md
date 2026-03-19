@@ -2,7 +2,7 @@
 
 # Justin Liu
 
-### Business Intelligence • Digital Advisory • Data-Driven Decision Support
+### Business Intelligence • Digital Advisory • Data-Driven Decision Support • Optimization • Strategic Decision-Making
 
 **MBA Candidate | Business Analysis | Reinforcement Learning | Decision Optimization 
 
