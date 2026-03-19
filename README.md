@@ -4,7 +4,7 @@
 
 ### Digital Advisory • Business Intelligence • Strategy Optimization
 
-**MBA Candidate | Business Analyst | Reinforcement Learning |**
+**MBA Candidate | Business Analyst | Reinforcement Learning**
 
 *Digital advisory strategist specializing in project governance, risk assessment, and data-driven decision support for high-stakes enterprise systems and $15M+ infrastructure portfolios.*
 
