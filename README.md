@@ -14,7 +14,7 @@
 
 ### 💡 About Me
 
-I am a **Business Analyst Consultant** and **MBA Candidate** (3.8 GPA) focused on the intersection of technical delivery and executive strategy. With over 3 years of experience in **Digital Advisory**, I specialize in transforming complex operational data into actionable insights that drive multi-million dollar investments.
+I am a **Business Analyst Consultant** and **MBA Candidate** focused on the intersection of technical delivery and executive strategy. With over 3 years of experience in **Digital Advisory**, I specialize in transforming complex operational data into actionable insights that drive multi-million dollar investments.
 
 My expertise lies in bridging the gap between technical SMEs and senior leadership, ensuring that large-scale digital transformations—particularly in the **Utilities and Energy sectors**—are delivered with financial rigor and operational clarity.
 
