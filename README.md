@@ -38,6 +38,43 @@ My expertise lies in bridging the gap between technical SMEs and senior leadersh
 * 🛡️ **Cybersecurity Compliance (TRA)** — Conducted comprehensive Threat Risk Assessments for high-stakes client applications to ensure industry-standard security.
 * 📉 **RFP Visual Analytics** — Conceptualized Power BI dashboard suites for multi-million dollar proposals to project operational improvements.
 
+### 🚀 Featured Projects
+
+#### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance
+*Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing*
+- **Decision Problem:** Autonomous systems must choose evasive maneuvers under asymmetric risk and incomplete information.
+- **Approach:** Formulated as a multi-armed bandit with epsilon-greedy exploration. Simulated heterogeneous pedestrian–vehicle encounters across velocity differentials and safety penalties.
+- **Impact:** Examined how risk preferences shift optimal maneuver selection in safety-critical environments.
+- **Stack:** `Python` `Reinforcement Learning` `Stochastic Modeling`
+
+#### 🍇 Landhills Winery — Optimal Blending Plan (LP/MIP)
+*Prescriptive Analytics Using Linear & Mixed-Integer Optimization*
+- **Decision Problem:** Blending choices must satisfy regulatory, quality, and capacity constraints while maximizing profitability.
+- **Approach:** LP/MIP formulation with explicit variable interpretation for managerial transparency and sensitivity analysis.
+- **Impact:** Illustrates how constrained optimization outperforms heuristic or intuition-driven blending in resource-constrained supply chains.
+- **Stack:** `Optimization` `LP/MIP` `Resource Allocation`
+
+#### 📦 Konys Inc. — Procurement Risk Monte Carlo Simulation
+*Monte Carlo Simulation for Contract Design and Risk Transfer*
+- **Decision Problem:** Procurement decisions must balance cost and downside exposure under volatility (purchase vs. option vs. spot).
+- **Approach:** Modeled demand and spot price uncertainty via Monte Carlo simulation. Evaluated flexibility premiums and tail risk to determine economic resilience.
+- **Impact:** Shows how simulation makes contract design and risk management tractable for executives in volatile markets.
+- **Stack:** `Simulation` `Monte Carlo` `Risk Management` `Financial Modeling`
+
+#### 🚚 Capacity-Constrained Network Flow Optimization (LP)
+*Decision system for routing flow across multi-node networks under capacity and cost constraints*
+- **Decision Problem:** Routing flow through a constrained network to meet demand at minimum cost while identifying system bottlenecks.
+- **Approach:** Linear programming formulation using PuLP with explicit shadow-price interpretation to identify marginal value of additional throughput.
+- **Impact:** Demonstrates how systems thinking + optimization can diagnose where interventions matter in logistics and infrastructure.
+- **Stack:** `PuLP` `Network Optimization` `Systems Thinking`
+
+#### 💊 Moore Pharmaceuticals — Capital Allocation Under Uncertainty
+*Monte Carlo NPV Under Regulatory & Market Uncertainty*
+- **Decision Problem:** Drug portfolio decisions involve market, regulatory, and timing uncertainty that conventional NPV fails to capture.
+- **Approach:** Multi-dimensional simulation (market size, pricing, delay risk) comparing deterministic vs. stochastic NPVs.
+- **Impact:** Improves capital allocation in high-uncertainty, long-cycle industries by valuing managerial optionality.
+- **Stack:** `Monte Carlo` `NPV Modeling` `Decision Theory` `Capital Allocation`
+
 ### 🛠️ Technical Stack
 
 | Category | Tools & Competencies |
