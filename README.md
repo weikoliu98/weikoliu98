@@ -1,4 +1,4 @@
-## Justin LIu
+## Justin Liu
 Optimization • Simulation • AI-Enabled Decision Systems for Operational & Strategic Decision-Making
 MBA Candidate | Risk Analytics | Reinforcement Learning | Decision Optimization | Business Analysis
 
